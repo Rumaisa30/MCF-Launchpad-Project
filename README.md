@@ -24,6 +24,14 @@ Certain demographic groups, such as sex and race, were underrepresented or overr
 
 This dataset is included in this repository to ensure reproducibility. 
 
+## Tools
+-Python
+-Google Colab
+-Pandas
+-NumPy
+-UCI Adult Income Dataset
+-Github
+
 ## Future Work
 -Finish balancing the dataset
 -Train fairness-aware ML models
